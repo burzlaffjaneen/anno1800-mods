@@ -1,0 +1,17 @@
+{
+  "Anno": 7,
+  "Version": "1.0.6",
+  "ModID": "zreoecho-four-boosts",
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "仅玩家生效的四项增强",
+    "English": "Player Only Four Boosts"
+  },
+  "Description": {
+    "Chinese": "生产力、需求人口、公共服务和全岛供电增强；仅人类玩家生效。发电厂需正常运行，并通过道路连接用电建筑。",
+    "English": "Human-only production, population, public-service and island-wide electricity boosts. Power plants must operate normally and have a road connection to powered buildings."
+  }
+}

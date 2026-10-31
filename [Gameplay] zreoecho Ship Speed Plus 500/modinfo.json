@@ -1,0 +1,18 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "zreoecho-ship-speed-plus500",
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "仅玩家海船速度增加5倍（+500%）",
+    "English": "Player Only Ship Speed +500%"
+  },
+  "Description": {
+    "Chinese": "人类玩家海船基础航速增加500%，即无其他修正时达到原速6倍；载入并进入地区时应用。",
+    "English": "Human-owned sea ships receive +500% forward speed, or 6x base speed without other modifiers. Reapplied on session entry."
+  },
+  "ModDependencies": []
+}

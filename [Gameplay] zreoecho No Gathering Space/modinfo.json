@@ -1,0 +1,18 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "zreoecho-no-gathering-space",
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "仅玩家取消采集空间需求",
+    "English": "Player Only No Gathering Space"
+  },
+  "Description": {
+    "Chinese": "取消玩家伐木场、炭窑、狩猎小屋、果园等建筑的周边采集空地需求。",
+    "English": "Removes the surrounding gathering-area requirement from human-owned lumberjacks, charcoal kilns, hunters, orchards and similar free-area production buildings."
+  },
+  "ModDependencies": []
+}

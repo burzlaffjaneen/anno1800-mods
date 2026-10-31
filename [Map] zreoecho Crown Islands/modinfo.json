@@ -1,0 +1,17 @@
+{
+  "Anno": 7,
+  "Version": "0.1.4",
+  "ModID": "zreoecho-crown-rich-islands",
+  "Category": {
+    "Chinese": "地图",
+    "English": "Map"
+  },
+  "ModName": {
+    "Chinese": "皇冠富饶岛：每位玩家一座",
+    "English": "One Rich Crown Per Player"
+  },
+  "Description": {
+    "Chinese": "0.1.4：按各自皇冠港口初始化视野、镜头、舰队航行和空仓物资，清理普通开局港口。双方更新并新开档；单人选角落、双人选雪花，开启普通开局港口。七种肥力及58个资源槽保留。联机效果待实测。",
+    "English": "0.1.4: initialize each player at their Crown trading post, reveal the island, move the starting fleet, stock an empty warehouse, and remove the old ordinary starting post. New game and matching versions required. Runtime multiplayer verification pending."
+  }
+}

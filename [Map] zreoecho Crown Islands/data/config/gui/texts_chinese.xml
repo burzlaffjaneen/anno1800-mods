@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID=&quot;17082&quot;]/Text">
+    <Text>皇冠富饶岛·单人</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID=&quot;17083&quot;]/Text">
+    <Text>皇冠富饶岛·双人</Text>
+  </ModOp>
+</ModOps>
